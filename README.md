@@ -1,2 +1,2 @@
-# Twitter_Stock_Analyzer
+# Twitter Stock Analyzer
 A sentiment analyzer for financial stocks using Twitter data.
