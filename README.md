@@ -9,3 +9,7 @@ Open source under [MIT License](https://github.com/rmccormick314/Twitter_Stock_A
 ### Module: Liquidity Grapher
 by Alexandra Curry<br>
 Module to measure and display liquidity of a given source.<br>
+
+###Module: Recommendation Module
+by Johnathan Ray<br>
+This module would provide recommendations of what stocks to buy based on the collected sentiment analysis.
