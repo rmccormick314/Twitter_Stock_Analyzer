@@ -6,6 +6,11 @@ import tweepy
 secret_file = "twitter-keys.txt"
 
 # READ API KEYS & TOKENS =======================================================
+# Function Name: __init__
+# Function     : Initializes an authenticated API object
+# Inputs       : None
+# Outputs      : Authenticated API Object
+# Dependencies : None
 def create_auth():
     """Read through the secret file"""
     with open(secret_file) as f:
